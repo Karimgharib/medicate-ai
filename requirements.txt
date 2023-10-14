@@ -1,6 +1,7 @@
 gunicorn
 numpy
-flask
+Flask
 cv2
-flask_cors
-keras.models
+Flask-cors
+keras
+opencv-python-headless
